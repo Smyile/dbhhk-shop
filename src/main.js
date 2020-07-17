@@ -9,8 +9,8 @@ Vue.use(ElementUI);
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */
-new Vue({
-  el: '#app',
+new Vue({ 
+  el: '#app',//侯浩凯
   router,
   ElementUI,
   components: { App },
